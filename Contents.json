@@ -1,10 +1,52 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "58c41fd48fe125329dcd823fa36cc386",
+				"Address" : "9abzTDEx_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "57e2c4e412cbbe08962f3a5a412976bd",
+				"Address" : "9abzTDEx_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"ClimbDown" : {
+				"Hash" : "1e12b69a5f61d05aa9e4305bc286066f",
+				"Address" : "9abzTDEx_ClimbDown.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "シオン・ザ・DBの戦利骨",
+			"Author" : "たくえもん",
+			"Package" : "Ultra Big Bang",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "Ultra Big Bang",
+			"Format" : "Ultra Big Bang",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
