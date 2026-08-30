@@ -3,19 +3,19 @@
 	"Hats" : [
 		{
 			"Main" : {
-				"Hash" : "58c41fd48fe125329dcd823fa36cc386",
+				"Hash" : "136df924165f1e29fb8f4a3bed74428b",
 				"Address" : "9abzTDEx_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
 			"Climb" : {
-				"Hash" : "57e2c4e412cbbe08962f3a5a412976bd",
+				"Hash" : "9d9897bafa54b28bac0877da4f4547e3",
 				"Address" : "9abzTDEx_Climb.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
 			"ClimbDown" : {
-				"Hash" : "1e12b69a5f61d05aa9e4305bc286066f",
+				"Hash" : "9d9897bafa54b28bac0877da4f4547e3",
 				"Address" : "9abzTDEx_ClimbDown.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -28,7 +28,7 @@
 			"LongNeckCostume" : True,
 			"Name" : "シオン・ザ・DBの戦利骨",
 			"Author" : "たくえもん",
-			"Package" : "Ultra Big Bang",
+			"Package" : "UltraBigBang Hats",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -42,8 +42,8 @@
 	],
 	"Packages" : [
 		{
-			"Package" : "Ultra Big Bang",
-			"Format" : "Ultra Big Bang",
+			"Package" : "UltraBigBang Hats",
+			"Format" : "UltraBigBang Hats",
 			"Priority" : 1,
 			"IsLocalizable" : True
 		}
