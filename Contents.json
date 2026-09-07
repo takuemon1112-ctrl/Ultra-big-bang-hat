@@ -2,20 +2,20 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Main" : {
-				"Hash" : "136df924165f1e29fb8f4a3bed74428b",
-				"Address" : "9abzTDEx_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Climb" : {
-				"Hash" : "9d9897bafa54b28bac0877da4f4547e3",
+				"Hash" : "1dc0dedc6ad6bf846a0e7835d0453b94",
 				"Address" : "9abzTDEx_Climb.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
+			"Main" : {
+				"Hash" : "732a0d330cf0f6748c1b85ce6df29dfa",
+				"Address" : "9abzTDEx_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
 			"ClimbDown" : {
-				"Hash" : "9d9897bafa54b28bac0877da4f4547e3",
+				"Hash" : "1dc0dedc6ad6bf846a0e7835d0453b94",
 				"Address" : "9abzTDEx_ClimbDown.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
