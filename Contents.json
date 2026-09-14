@@ -2,15 +2,19 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Climb" : {
-				"Hash" : "1dc0dedc6ad6bf846a0e7835d0453b94",
-				"Address" : "9abzTDEx_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "732a0d330cf0f6748c1b85ce6df29dfa",
 				"Address" : "9abzTDEx_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "1dc0dedc6ad6bf846a0e7835d0453b94",
+				"Address" : "9abzTDEx_Climb.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -20,13 +24,35 @@
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "シオン・ザ・DBの戦利骨",
+			"Author" : "たくえもん",
+			"Package" : "UltraBigBang Hats",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"Main" : {
+				"Hash" : "3ec0a5da7f10707314c0bdf83c46e32c",
+				"Address" : "N1QYNg0pc_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "69c1f16034c261aabfc53f2fabb79eec",
+				"Address" : "N1QYNg0pc_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "シオン・ザ・DB",
 			"Author" : "たくえもん",
 			"Package" : "UltraBigBang Hats",
 			"IsUnlockable" : False,
