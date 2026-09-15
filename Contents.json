@@ -35,13 +35,13 @@
 		},
 		{
 			"Climb" : {
-				"Hash" : "22c7d0cccd89831d5911994d50ad3bf2",
+				"Hash" : "7a5f7ac9a3b1627d69fe958876c375b4",
 				"Address" : "N1QYNg0pc_Climb.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
 			"Main" : {
-				"Hash" : "a5f78a97269e75cb57369792eacda3a1",
+				"Hash" : "fdddb95cc6f2ce0bc1395ec4ffa17737",
 				"Address" : "N1QYNg0pc_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
