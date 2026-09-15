@@ -2,15 +2,15 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Climb" : {
-				"Hash" : "1dc0dedc6ad6bf846a0e7835d0453b94",
-				"Address" : "9abzTDEx_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Main" : {
 				"Hash" : "732a0d330cf0f6748c1b85ce6df29dfa",
 				"Address" : "9abzTDEx_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "1dc0dedc6ad6bf846a0e7835d0453b94",
+				"Address" : "9abzTDEx_Climb.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
@@ -34,15 +34,15 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "4599c19290ffb8a2b851e2776d81fde7",
-				"Address" : "N1QYNg0pc_Climb.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
 			"Main" : {
 				"Hash" : "fdddb95cc6f2ce0bc1395ec4ffa17737",
 				"Address" : "N1QYNg0pc_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "50904a6b7dc2bf94ebad0782c8e15b68",
+				"Address" : "N1QYNg0pc_Climb.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
