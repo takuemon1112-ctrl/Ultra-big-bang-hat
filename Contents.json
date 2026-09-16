@@ -2,10 +2,6 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "732a0d330cf0f6748c1b85ce6df29dfa",
 				"Address" : "9abzTDEx_Main.png",
@@ -24,6 +20,10 @@
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "シオン・ザ・DBの戦利骨",
@@ -34,22 +34,22 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
-				"Hash" : "58c497d40e92cf099c6faa9fac324862",
+				"Hash" : "ea8f863b8de7dae61c593d21afeb07cf",
 				"Address" : "N1QYNg0pc_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
 			"Climb" : {
-				"Hash" : "2234bea6dd272c2db3e26643421e288e",
+				"Hash" : "307cbd418caa6824aa2e97ab0b4e2fa0",
 				"Address" : "N1QYNg0pc_Climb.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "シオン・ザ・DB",
