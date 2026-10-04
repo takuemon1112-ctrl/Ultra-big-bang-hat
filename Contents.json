@@ -61,6 +61,66 @@
 		}
 	],
 	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "005fdd0b8f606a6b7a87910f6b5926fa",
+				"Address" : "UXZQDCyb_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "gurey",
+			"Author" : "たくえもん",
+			"Package" : "UltraBigBang Hats",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "df9e31f3841751676e122a86c0d91b01",
+				"Address" : "iDKNmaBu_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"EnterVent" : {
+				"Hash" : "e167a0f36de7f6e33790b925567d1b74",
+				"Address" : "iDKNmaBu_EnterVent.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"ExitVent" : {
+				"Hash" : "e167a0f36de7f6e33790b925567d1b74",
+				"Address" : "iDKNmaBu_ExitVent.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "5bdfc1b8b85fca3b1cd5f94c7ac2d876",
+				"Address" : "iDKNmaBu_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"ClimbDown" : {
+				"Hash" : "5b970e3d996cef405a39adcab7550064",
+				"Address" : "iDKNmaBu_ClimbDown.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "VS_IMPOSTOR風バイザー",
+			"Author" : "たくえもん",
+			"Package" : "UltraBigBang Hats",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		}
 	],
 	"Nameplates" : [
 	],
