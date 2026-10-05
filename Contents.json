@@ -63,24 +63,6 @@
 	"Visors" : [
 		{
 			"Main" : {
-				"Hash" : "005fdd0b8f606a6b7a87910f6b5926fa",
-				"Address" : "UXZQDCyb_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "gurey",
-			"Author" : "たくえもん",
-			"Package" : "UltraBigBang Hats",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
 				"Hash" : "df9e31f3841751676e122a86c0d91b01",
 				"Address" : "iDKNmaBu_Main.png",
 				"ExIsFront" : False,
